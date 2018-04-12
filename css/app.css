@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background: #e66000;
+    font-size: 3rem;
+    box-sizing: border-box;
+}
+#cat-list {
+    text-align: left;
+    list-style: none;
+    font-size: 2rem;
+    cursor: pointer;
+    max-width: 80%;
+}
+
+footer {
+    display: block;
+    position: absolute;
+    margin-top: 0;
+    text-align: left;
+    font-size: 2rem;
+    max-width: 70%;
+}
+#cat-name {
+    margin: 0 auto;
+}
+#cat-img {
+    max-width: 80%;
+}
